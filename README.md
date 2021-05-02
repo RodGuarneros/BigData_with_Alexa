@@ -15,7 +15,7 @@ Use the furnished schemata to create tables in your RDS database.
 
 Articulate the differents components of the Hadoop Ecosystem.
 Run MapReduce hobs
-Use Spark DataFrames to process large datasets
+Use Spark DataFrames to process large datasets, to make queries from Hadoop Distributed Files.
 
 However do not forget that Big Data is reserve to large companies, we are talking about huge problems.
 
@@ -25,4 +25,11 @@ Hadoop fundamentals
 MapReduce: Support for paralel computation. Map splits the job and Reduce put togheter the results.
 HDFS: Hadoop Distributed Files System
 Spark: Performs queries in the HDFS
+
+# Issues you are going to find with extremely large dataset
+
+- A place to store massive amounts of data
+- A way to access data quicly
+- A backup for hardware failure
+- Ways to analyze data quickly
 
