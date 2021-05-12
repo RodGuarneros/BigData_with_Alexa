@@ -9,9 +9,9 @@ Use the furnished schemata to create tables in your RDS database.
 - Work with S3 data sources in two separate ZEPL notebooks.
 - For each notebook (one dataset per notebook), we can:
 
-   -- Count the number of records (rows) in the dataset.
-   -- Transform the dataset to fit the tables in the schema file.
-   -- RDS instance. 
+   - Count the number of records (rows) in the dataset.
+   - Transform the dataset to fit the tables in the schema file.
+   - RDS instance. 
 
 Articulate the differents components of the Hadoop Ecosystem.
 Run MapReduce hobs
