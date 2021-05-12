@@ -40,10 +40,11 @@ Spark: Performs queries in the HDFS
 I invite you to know the results of this Big Data Analysis for a total of 1,785,997 opinions on 65,787 video games, and 9,002,021 opinions for 143,250 wireless products and accessories sold by the platform. This analysis confirms the bias that exists between the ratings provided by users and the ratings certified by the Amazon Vine program.
 Indeed, what we call “Regular Opinions” in this analysis can include biased reviews that start from false and optimistic opinions that raise the #star_rating of the products and concentrating them on 4.5 and 5 stars.
 
-
+![wireless.jpg](https://github.com/RodGuarneros/BigData_with_Alexa/blob/main/Resources/regular_opinions_guarneros.png)
  
 In contrast to the distribution of reviews made by Vine Costumers for the same products, where you can see a higher variance and a lower average star_rating.
- 
+
+ ![vine.jpg](https://github.com/RodGuarneros/BigData_with_Alexa/blob/main/Resources/Vine_Opinions_Guarneros.png)
 
 The foregoing is consistent with the analyzes performed in relation to electronic reviews, where product evaluations have been found to drop when "questionable" electronic reviews are removed.
 
