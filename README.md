@@ -29,7 +29,7 @@ Spark: Performs queries in the HDFS
 # Issues you are going to find with extremely large dataset
 
 - A place to store massive amounts of data
-- A way to access data quicly
+- A way to access data quickly
 - A backup for hardware failure
 - Ways to analyze data quickly
 
